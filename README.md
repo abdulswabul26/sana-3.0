@@ -38,13 +38,12 @@ Users can customize their experience, manage preferences, and improve usability.
 
 ---
 
-## 📁 Project File Structure
+# Project File Structure
 
 sana-2.0/
 ├── .gitignore
 ├── README.md
 ├── LICENSE
-│
 ├── public/
 │   ├── index.html
 │   ├── chat.html
@@ -57,34 +56,26 @@ sana-2.0/
 │       ├── css/
 │       ├── js/
 │       └── img/
-│
 ├── src/
 │   ├── php/
 │   │   ├── controllers/
 │   │   ├── models/
 │   │   ├── utils/
 │   │   └── index.php
-│   │
 │   └── js/
 │       ├── chat/
 │       ├── journal/
 │       └── common/
-│
 ├── config/
 │   ├── config.php
 │   └── routes.php
-│
 ├── tests/
 │   ├── php/
 │   └── js/
-│
 └── docs/
-├── architecture.md
-├── api.md
-└── contributing.md
-
----
-
+    ├── architecture.md
+    ├── api.md
+    └── contributing.md
 ## 🚀 How to Run the Project Locally
 
 ### 1. Clone the Repository
