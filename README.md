@@ -1,4 +1,4 @@
-# 📘 Sana 2.0 — Mental Health Companion App
+# 📘 Sana 3.0 — Mental Health Companion App
 
 Sana 2.0 is a simple, supportive mental-health companion designed to help students and young adults track their emotional well-being.  
 The platform provides a calm environment where users can chat, journal, explore wellness resources, and personalize their experience through an intuitive dashboard.
